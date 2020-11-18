@@ -1,0 +1,6 @@
+module Pods_NativeTranslator {
+  umbrella header "Pods-NativeTranslator-umbrella.h"
+
+  export *
+  module * { export * }
+}
